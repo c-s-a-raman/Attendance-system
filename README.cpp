@@ -1,5 +1,5 @@
-# Attendance-system
-### KRS Project on Fingerprint-based Attendance System With Arduino
+// Attendance-system
+// KRS Project on Fingerprint-based Attendance System With Arduino
 
 #include<EEPROM.h>
 #include<LiquidCrystal.h>
